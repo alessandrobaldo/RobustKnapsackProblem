@@ -1,4 +1,4 @@
-# 2020_ORTA_RobustKnapsackProblem
+# Robust Knapsack Problem
 
 LP model and two heuristics (graph-based and genetic-based) to solve the Robust Knapsack Problem.
 The report with all the needed explanations and results of this work is the file RKP_report.pdf. Folder Report_codes contains all the latex and accessory files used for the production of the final pdf.
